@@ -1,6 +1,6 @@
 # Cake-Haven
 Project Overview
-Cake Haven is a static website for a cake bakery, showcasing delicious cakes, services, and contact information. Built with vanilla HTML and CSS, the site is lightweight, responsive, and designed to provide a delightful user experience.
+This personal project is a static website for a cake bakery called cake haven. showcasing delicious cakes, services, and contact information. Built with vanilla HTML and CSS, the site is lightweight, responsive, and designed to provide a delightful user experience.
 Features
 Homepage: Introduces Cake Haven with a welcoming banner and featured cakes.
 
