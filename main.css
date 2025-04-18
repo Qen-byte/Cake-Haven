@@ -20,4 +20,5 @@ font-size: 40px;
 #nav-bar ul li{
   text-align: right;
   display: inline-block;
+  margin-left: 25px;
 
